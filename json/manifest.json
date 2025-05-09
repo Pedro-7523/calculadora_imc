@@ -1,0 +1,21 @@
+{
+    "name": "Projeto 03",
+    "short_name": "PJ03",
+    "start_url": "./",
+    "display": "standalone",
+    "backgroud_color": "#fffff",
+    "theme_color": "darkblue",
+    "icons": [
+        {
+            "src": "../icones/balanca_128x128.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+
+           {
+            "src": "../icones/balanca_512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

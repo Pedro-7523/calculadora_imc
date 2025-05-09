@@ -1,0 +1,1 @@
+let peso = document.getElementById("peso").value;
